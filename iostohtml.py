@@ -106,8 +106,7 @@ def find_pointers_to_acls(parsed_config, acls):
     for acl in acls:
         # find each line where there is a valid pointer.
         # Capture the pointer line text, pointer name, and the pointee name
-        pass
-    return None
+        
 
 
 
